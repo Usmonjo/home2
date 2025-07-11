@@ -120,22 +120,21 @@
 //Task 4;
 
 int a = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine(usmon(a));
+usmon(a);
 
-int usmon(int a)
+void usmon(int a)
 {
    
     if (a == 0)
     {
-        return 0;
+        return ;
 
     }
     else
     {
-        int d = a / 10;
-        return usmon( a% 10);
-
-
+         usmon(a / 10);
+      System.Console.Write(($"{a%10} "));
+        
   }
         
 }

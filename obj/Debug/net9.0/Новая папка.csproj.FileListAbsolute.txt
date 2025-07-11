@@ -12,3 +12,4 @@ C:\Users\user\Desktop\C#\Новая папка\obj\Debug\net9.0\refint\Нова�
 C:\Users\user\Desktop\C#\Новая папка\obj\Debug\net9.0\Новая папка.pdb
 C:\Users\user\Desktop\C#\Новая папка\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
 C:\Users\user\Desktop\C#\Новая папка\obj\Debug\net9.0\ref\Новая папка.dll
+C:\Users\user\Desktop\C#\Новая папка\obj\Debug\net9.0\Новая папка.sourcelink.json
